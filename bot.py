@@ -901,6 +901,6 @@ async def on_ready():
 # ===== START BOTA =====
 if __name__ == "__main__":
     try:
-        bot.run("MTQ2NTAzNzg0MDAxMzMzMjcyMw.GsZl7F.ZjQ2HIGMx8TQBz8Ifd5pR11hjukNGk47JigC1w")
+        bot.run("MTQ2NTAzNzg0MDAxMzMzMjcyMw.Grhzws.e_z8Am192C_c7B2uKZ8tfFNy4_x4MWZ4pW1kV4")
     except Exception as e:
         print(f"❌ Błąd podczas uruchamiania bota: {e}")
